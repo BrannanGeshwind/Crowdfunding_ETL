@@ -24,6 +24,6 @@ Project 2 with Tait Ralston, Sebastian Alonso, and Brannan Geshwind
 <li>[PostgreSQL](https://www.postgresql.org/docs/)</li>
 <li>[Pandas](https://pandas.pydata.org/docs/)</li>
 <li>[Python](https://docs.python.org/3/)</li>
-<li>[StackOverflow]([https://docs.python.org/3/](https://stackoverflow.com/))</li>
+<li>[StackOverflow](https://stackoverflow.com/))</li>
 <li>[W3Schools](https://www.w3schools.com/)</li>
 </ol>
