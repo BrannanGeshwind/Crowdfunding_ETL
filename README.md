@@ -1,5 +1,5 @@
 # Crowdfunding_ETL
-Project 2 with Tait Ralston and Sebastian Alonso
+Project 2 with Tait Ralston, Sebastian Alonso, and Brannan Geshwind
 
 ## Updates:
 9/7/2023
